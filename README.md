@@ -1,4 +1,4 @@
-# EtherApe Clone (Windows)
+# NetVine
 
 This project is a scaffold for a basic EtherApe-like tool that uses Python and PyQt for network traffic visualization.
 
@@ -46,5 +46,3 @@ This project is a scaffold for a basic EtherApe-like tool that uses Python and P
   - `network_capture.py`: Placeholder for network capture functionality.
   - `ui_main.py`: Main GUI setup using PyQt.
   - `requirements.txt`: Python packages required for the project.
-
-Enjoy creating your custom EtherApe-like visualization tool!
