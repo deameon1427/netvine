@@ -1,0 +1,10 @@
+/* Basic styling for the application */
+QMainWindow {
+    background-color: #f0f0f0;
+}
+QPushButton {
+    background-color: #4CAF50; color: white;
+}
+QComboBox {
+    min-width: 150px;
+}
