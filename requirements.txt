@@ -1,2 +1,4 @@
-pyqt5
-pyshark
+PyQt5==5.15.11
+pyshark==0.4.3
+matplotlib==3.7.2
+networkx==3.1
